@@ -1,0 +1,5 @@
+#define stop 0x00;
+#define st 0x0a;
+#define lt 0x06;
+#define rt 0x09;
+#define rev 0x05;
