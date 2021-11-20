@@ -1,0 +1,7 @@
+# Keil generated files
+
+*.uvopt
+*.R
+Listings
+Objects
+STARTUP.A51
